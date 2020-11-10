@@ -1,0 +1,3 @@
+C:\codebitacademyfolder\C#\LabTask8 -10\QuestionTwo\obj\Debug\netcoreapp3.1\QuestionTwo.csprojAssemblyReference.cache
+C:\codebitacademyfolder\C#\LabTask8 -10\QuestionTwo\obj\Debug\netcoreapp3.1\QuestionTwo.AssemblyInfoInputs.cache
+C:\codebitacademyfolder\C#\LabTask8 -10\QuestionTwo\obj\Debug\netcoreapp3.1\QuestionTwo.AssemblyInfo.cs
